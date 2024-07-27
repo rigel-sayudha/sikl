@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sikl</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_acc">Profile</string>
+    //Popular
+    //1
+    <string name="title_rv">Nike White</string>
+    <string name="desc_rv">Running shoes</string>
+    //2
+    <string name="title_rv2">Nike Green</string>
+    <string name="desc_rv2">Stylish shoes</string>
+    //3
+    <string name="title_rv3">Nike Black</string>
+    <string name="desc_rv3">Basketball shoes</string>
+    //4
+    <string name="title_rv4">Nike Red</string>
+    <string name="desc_rv4">Sport shoes</string>
+</resources>
